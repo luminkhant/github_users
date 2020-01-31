@@ -1,6 +1,6 @@
 # github_users
 
-GithubUsers is test projects to show list of github users.
+GithubUsers is test projects to show list of github users using MVVM architecture.
 
 
 # Features
